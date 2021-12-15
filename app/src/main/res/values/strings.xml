@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Musik.in</string>
+    <string name="my_profile">My\nProfile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profil_name">Mohamad Kholid Bughowi</string>
+    <string name="icon_email">icon email address</string>
+    <string name="profile_email">muhammadbughowy@gmail.com</string>
+    <string name="icon_phone_number">icon phone number</string>
+    <string name="profile_phone">0895328494336</string>
+    <string name="icon_address">icon address</string>
+    <string name="profile_address">Jepara, Jawa Tengah</string>
+    <string name="artist_picture">artist picture</string>
+    <string name="artist_name">Artist name</string>
+    <string name="songs_title">Songs Title</string>
+    <string name="sample_lyric">I heard that you\'re settled down\nThat you found a girl and you\'re married now\nI heard that your dreams came true\nGuess she gave you things, I didn\'t give to you\nOld friend, why are you so shy?\nAin\'t like you to hold back or hide from the light\n\nI hate to turn up out of the blue, uninvited\nBut I couldn\'t stay away, I couldn\'t fight it\nI had hoped you\'d see my face\nAnd that you\'d be reminded that for me, it isn\'t over\n\nNever mind, I\'ll find someone like you\nI wish nothing but the best for you, too\n Don\'t forget me, I beg\nI remember you said\nSometimes it lasts in love, but sometimes it hurts instead\nSometimes it lasts in love, but sometimes it hurts instead\n\nYou know how the time flies\nOnly yesterday was the time of our lives\nWe were born and raised in a summer haze\nBound by the surprise of our glory days\n\nI hate to turn up out of the blue, uninvited\nBut I couldn\'t stay away, I couldn\'t fight it\nI had hoped you\'d see my face\nAnd that you\'d be reminded that for me, it isn\'t over\n\nNever mind, I\'ll find someone like you\nI wish nothing but the best for you, too\nDon\'t forget me, I begged\nI remember you said\nSometimes it lasts in love, but sometimes it hurts instead\n\nNothing compares, no worries or cares\nRegrets and mistakes, they\'re memories made\nWho would have known how bittersweet this would taste?\n\nNever mind, I\'ll find someone like you\nI wish nothing but the best for you\nDon\'t forget me, I beg\nI remember you said\nSometimes it lasts in love, but sometimes it hurts instead\n\nNever mind, I\'ll find someone like you\nI wish nothing but the best for you, too\nDon\'t forget me, I begged\nI remember you said\nSometimes it lasts in love, but sometimes it hurts instead\nSometimes it lasts in love, but sometimes it hurts instead\n</string>
+    <string name="account">Account</string>
+    <string name="splash_icon">Splash icon</string>
+</resources>

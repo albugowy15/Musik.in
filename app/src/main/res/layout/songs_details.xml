@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="horizontal"
+        android:id="@+id/bg_songs_album_detail"
+        android:background="@drawable/album_21">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/iv_songs_artist_detail"
+            android:src="@drawable/artist_adele"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="200dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="210dp"
+            android:layout_marginStart="68dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:shadowRadius="10"
+                android:shadowColor="@color/black"
+                android:id="@+id/tv_songs_title_detail"
+                android:text="@string/songs_title"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/artist_name"
+                android:shadowRadius="10"
+                android:shadowColor="@color/black"
+                android:textColor="@color/white"
+                android:id="@+id/tv_songs_artist_detail"
+                android:layout_marginTop="9dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="15dp"
+        android:id="@+id/tv_songs_lyric_detail"
+        android:lineSpacingExtra="6sp"
+        android:text="@string/sample_lyric"/>
+
+</LinearLayout>
+    </ScrollView>
